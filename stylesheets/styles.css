@@ -354,3 +354,11 @@ footer p + p {
     content: 'at http://github.com/';
   }
 }
+
+.center-content{
+  text-align: center;
+}
+
+.center-content * {
+  margin: 0 auto;
+}
